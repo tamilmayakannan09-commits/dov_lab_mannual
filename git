@@ -1,0 +1,26 @@
+AIM: 
+	 To learn and perform basic Git and GitHub operations such as cloning a repository, creating branches, committing changes, and 	pushing updates to GitHub.  
+
+ALGORITHM:  
+	Step 1: Create a GitHub repository. 
+	Step 2: Copy the repository URL.  
+	Step 3: Open Git Bash or Terminal.  
+	Step 4: Clone the repository using: git clone <repository_url> 
+	Step 5: Navigate to the cloned repository: cd repository_name 
+	Step 6: Create a new file or modify an existing file.  
+	Step 7: Check repository status: git status 
+	Step 8: Add changes to the staging area: git add . 
+	Step 9: Commit the changes: git commit -m "Commit message" 
+	Step 10: Create a new branch: git branch branch_name 
+	Step 11: Switch to the new branch: git checkout branch_name 
+	Step 12: Push changes to GitHub: git push origin branch_name 
+	Step 13: Verify changes on GitHub.Inventory File (hosts) 
+
+OUTPUT:  
+	1. Clone  git clone <repository_url>
+	2. Commit  git commit -m \"Initial Commit\" 
+	3.Push  git push origin feature_branch 
+	4. Branch  git branch feature_branch 
+
+RESULT:  
+	The Git and GitHub operations such as cloning, staging, committing, branching, and pushing were completed successfully. The changes 	were uploaded to the GitHub repository and verified successfully.  
