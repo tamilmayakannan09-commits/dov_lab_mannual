@@ -1,0 +1,26 @@
+AIM:  
+	To create an AWS account and configure basic AWS services such as IAM and EC2. 
+
+ALGORITHM:  
+	
+	Step 1: Open the AWS website using a web browser. 
+	Step 2: Create a new AWS account by clicking "Create an AWS Account".
+	Step 3: Verify your email address and phone number. 
+	Step 4: Complete the billing and account setup process. 
+	Step 5: Sign in to the AWS Management Console. 
+	Step 6: Open the IAM (Identity and Access Management) service. 
+	Step 7: Create a new IAM user and assign appropriate permissions. 
+	Step 8: Open the EC2 (Elastic Compute Cloud) service. 
+	Step 9: Launch a new EC2 instance. 
+	Step 10: Select an Amazon Machine Image (AMI). 
+	Step 11: Choose an instance type and configure security settings. 
+	Step 12: Review and launch the EC2 instance. 
+	Step 13: Verify that the instance is running successfully. 
+	Step 14: Log out from the AWS Management Console. 
+
+OUTPUT:  
+	1.Creating an AWS Account
+	2.AWS ACCOUNT CONFIGURATION
+
+RESULT:  
+	The AWS account was created successfully, and the required services were configured. 
